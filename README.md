@@ -4,6 +4,6 @@
 # WORKING APP DEMO2
 ![demo](./demo2.gif)
 # SCREENSHOTS
-![Test Image 1](Screenshot(27).png)
-![Test Image 2](Screenshot(28).png)
-![Test Image 3](Screenshot(29).png)
+![Image](https://raw.githubusercontent.com/jpah2020/Employee-Tracker/master/Screenshot%20(27).png)
+![Image](https://raw.githubusercontent.com/jpah2020/Employee-Tracker/master/Screenshot%20(28).png)
+![Image](https://raw.githubusercontent.com/jpah2020/Employee-Tracker/master/Screenshot%20(29).png)
